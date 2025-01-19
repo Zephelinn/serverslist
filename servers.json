@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Private",
-      "address": "https://zephelinn.github.io"
+      "address": "https://anisette-v3-server-bmw9.onrender.com"
     },
     {
       "name": "SideStore",
